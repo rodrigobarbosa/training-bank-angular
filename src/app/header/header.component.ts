@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder } from '@angular/forms';
 
-
 @Component({
   selector: 'app-header',
   templateUrl: './header.component.html',
